@@ -1,2 +1,3 @@
 this is a sample file to test git.
 adding some more lines for testing
+editing the file for conflict issues
